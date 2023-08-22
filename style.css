@@ -1,0 +1,8 @@
+/*dashboard left w/ toggle and profile features*/
+.profilepic {
+  height: 250px;
+  width: 250px;
+  background-color: pink;
+  border-radius: 50%;
+  display: inline-block;
+}
