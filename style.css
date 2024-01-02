@@ -8,3 +8,6 @@ body {
   display: flex;
   justify-content: space-evenly;
 }
+.footer {
+  position: absolute;
+}
