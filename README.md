@@ -6,3 +6,7 @@ January updates:
 * pomodoro and habit tracker for subjects
 * music.... Spotify API?
 * needs update-able grades caluclator :)
+
+
+https://www.figma.com/file/vc2c4SrsdxVwfel4ha8IYT/academic-tracker?type=design&node-id=0-1&mode=design&t=ywuY3FsqETkhGvvh-0
+added figma materials, need better UI interface/homepage and easy access -- user mapping upcoming! 
