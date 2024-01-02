@@ -1,8 +1,10 @@
-/*dashboard left w/ toggle and profile features*/
-.profilepic {
-  height: 250px;
-  width: 250px;
-  background-color: pink;
-  border-radius: 50%;
-  display: inline-block;
+body {
+  font-weight: 500;
+}
+
+.navtop {
+  text-decoration: none;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-evenly;
 }
